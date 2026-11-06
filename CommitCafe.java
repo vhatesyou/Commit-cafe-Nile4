@@ -2,7 +2,7 @@ public class CommitCafe {
 
 
    private static String barista = "Nile"; // STUDENT_TODO_1A: Change name
-    private static String title = "Master Brewer"; private static String title = "[Lead Barista]";
+    private static String title = "Master Brewer"; 
 
 
     private static int cups = 0;
