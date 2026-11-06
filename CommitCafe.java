@@ -1,6 +1,9 @@
 public class CommitCafe {
 
+feature/brew
     private static String barista = "Nile"; // STUDENT_TODO_1A: Change name
+
+main
     private static String title = "Master Brewer"; // STUDENT_TODO_1B: Add a nickname or title for the barista
 
     private static int cups = 0;
