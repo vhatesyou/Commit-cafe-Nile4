@@ -2,7 +2,6 @@ public class CommitCafe {
 
     private static String barista = "Nile"; 
     private static String title = "Master Brewer";
-    
 
     private static int cups = 0;
 
@@ -13,7 +12,7 @@ public class CommitCafe {
     }
 
     public static void printSummary() {
-        System.out.println("[SUMMARY] " + barista + " brewed " + cups + " cups today.");
+        System.out.println("[SUMMARY] " + barista + " (" + title + ") brewed " + cups + " cups today.");
     }
 
     public static void main(String[] args) {
